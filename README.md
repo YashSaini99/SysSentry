@@ -134,8 +134,4 @@ To automate the script using `Anacron`, create a job in the Anacron job director
     sudo systemctl enable anacron.service
     sudo systemctl start anacron.service
     ```
-file for details.
 
-## Contact
-
-For any inquiries or issues, please open an issue on GitHub or contact Yash Saini at yash@example.com.
