@@ -134,14 +134,7 @@ To automate the script using `Anacron`, create a job in the Anacron job director
     sudo systemctl enable anacron.service
     sudo systemctl start anacron.service
     ```
-
-## Contribution
-
-Feel free to fork this repository, make changes, and submit pull requests. We appreciate any help in improving SysSentry.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+file for details.
 
 ## Contact
 
