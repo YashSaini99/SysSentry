@@ -1,8 +1,6 @@
 #!/bin/bash
 # system_maintenance.sh
-# A production-ready system maintenance script with auto-creation of configuration file,
-# enhanced error handling, and an improved UI (without the banner).
-#
+# A system maintenance script with auto-creation of configuration file,
 # This script:
 #   - Synchronizes package databases and checks for package updates (similar to pacman -Syu)
 #   - Optionally auto-updates non-critical packages
